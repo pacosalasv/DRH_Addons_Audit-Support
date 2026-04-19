@@ -1,7 +1,6 @@
-# DRH - Add-ons Audit Support
-
 <img width="680" alt="DRH - Add-ons Audit banner" src="https://github.com/user-attachments/assets/f8303114-2a98-44df-bef1-b32736459f28" />
 
+# DRH - Add-ons Audit Support
 
 Public technical support for DRH - Add-ons Audit.
 
