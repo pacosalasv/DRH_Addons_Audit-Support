@@ -1,2 +1,48 @@
-# DRH_Addons_Audit-Support
-Public technical support for DRH - Add-ons Audit. Ask questions, get installation help, report confirmed bugs, share compatibility findings, and suggest improvements.
+# DRH - Add-ons Audit Support
+
+Public technical support for DRH - Add-ons Audit.
+
+Use Discussions for:
+- Questions
+- How-to topics
+- Installation help
+- Compatibility checks
+- FAQ
+- Suggestions
+
+Use Issues for:
+- Confirmed bugs
+- Reproducible compatibility problems
+- Feature requests
+- Regressions
+- Marketplace or listing-related problems
+
+## Supported scope
+
+- Add-on: DRH - Add-ons Audit
+- Current version: 1.0.0
+- Minimum Blender version: 4.2.0
+- Platforms: Windows, macOS, Linux
+
+## Before you post
+
+Please include:
+- Add-on version
+- Blender version
+- Operating system
+- Installation method
+- Clear steps to reproduce
+- Expected result
+- Actual result
+- Error message, screenshot, or console output when available
+
+## Support policy
+
+This repository is a public support hub. Please do not post private account details, license keys, payment information, or confidential files.
+
+## Where to post
+
+- Open a Discussion for questions, setup help, workflow advice, and suggestions
+- Open an Issue for confirmed bugs, reproducible compatibility problems, regressions, and feature requests
+
+Thanks for helping improve DRH - Add-ons Audit.
