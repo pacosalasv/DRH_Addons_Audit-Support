@@ -57,4 +57,8 @@ This repository is a public support hub. Please do not post private account deta
 - Open a Discussion for questions, setup help, workflow advice, and suggestions
 - Open an Issue for confirmed bugs, reproducible compatibility problems, regressions, and feature requests
 
+## License
+
+This repository is distributed under GPL-3.0-or-later.
+
 Thanks for helping improve DRH - Add-ons Audit.
