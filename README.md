@@ -12,8 +12,6 @@ Public technical support for DRH - Add-ons Audit.
 - [Request a feature](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new?template=feature_request.yml)
 - [Report a compatibility issue](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new?template=compatibility_issue.yml)
 
-## 
-
 Use Discussions for:
 - Questions
 - How-to topics
@@ -51,6 +49,10 @@ Please include:
 ## Support policy
 
 This repository is a public support hub. Please do not post private account details, license keys, payment information, or confidential files.
+
+## Notes
+
+This add-on is source based, with no obfuscation, no binary-only content, and no external services. File access is used to scan installations, read manifests, compare snapshots, export reports, create installable packages, and import or export setup profiles.
 
 ## Where to post
 
