@@ -57,6 +57,11 @@ This repository is a public support hub. Please do not post private account deta
 - Open a Discussion for questions, setup help, workflow advice, and suggestions
 - Open an Issue for confirmed bugs, reproducible compatibility problems, regressions, and feature requests
 
+## Documentation
+
+- [User Manual](docs/user-manual.md)
+- [Changelog](CHANGELOG.md)
+
 ## License
 
 This repository is distributed under GPL-3.0-or-later.
