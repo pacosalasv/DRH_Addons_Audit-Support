@@ -59,7 +59,7 @@ This repository is a public support hub. Please do not post private account deta
 
 ## Documentation
 
-- [User Manual](docs/user-manual.pdf)
+- [User Manual](docs/manual/user-manual.pdf)
 - [Changelog](CHANGELOG.md)
 
 ## License
