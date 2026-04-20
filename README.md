@@ -57,6 +57,12 @@ This repository is a public support hub. Please do not post private account deta
 - Open a Discussion for questions, setup help, workflow advice, and suggestions
 - Open an Issue for confirmed bugs, reproducible compatibility problems, regressions, and feature requests
 
+## Availability
+
+This add-on may be available through multiple marketplaces and storefronts.
+
+For support, documentation, and issue tracking, please use this GitHub repository as the central public support hub.
+
 ## Documentation
 
 - [User Manual](docs/manual/user-manual.pdf)
