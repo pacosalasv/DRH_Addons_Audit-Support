@@ -12,6 +12,8 @@ Public technical support for DRH - Add-ons Audit.
 - [Request a feature](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new?template=feature_request.yml)
 - [Report a compatibility issue](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new?template=compatibility_issue.yml)
 
+##
+
 Use Discussions for:
 - Questions
 - How-to topics
