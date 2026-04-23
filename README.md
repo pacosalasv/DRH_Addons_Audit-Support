@@ -8,11 +8,14 @@
 
 Public technical support for **Add-ons Audit**.
 
-<br>
-
-<img src="https://img.shields.io/badge/Addon-In%20Development-a855f7?style=for-the-badge" alt="Addon In Development" />
-<img src="https://img.shields.io/badge/Version-1.0.0-0ea5e9?style=for-the-badge" alt="Version 1.0.0" />
-<img src="https://img.shields.io/badge/Blender-4.2%2B-f59e0b?style=for-the-badge" alt="Blender 4.2+" />
+<table>
+  <tr>
+    <td align="center"><strong>Status</strong><br>🟣 <strong>In Development</strong></td>
+    <td align="center"><strong>Version</strong><br><code>1.0.0</code></td>
+    <td align="center"><strong>Blender</strong><br><code>4.2+</code></td>
+    <td align="center"><strong>Platforms</strong><br>Windows, macOS, Linux</td>
+  </tr>
+</table>
 
 </div>
 
