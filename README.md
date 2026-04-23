@@ -1,8 +1,30 @@
-<img width="680" alt="DRH - Add-ons Audit banner" src="https://github.com/user-attachments/assets/f8303114-2a98-44df-bef1-b32736459f28" />
+<div align="center">
+  <img width="680" alt="Add-ons Audit banner" src="https://github.com/user-attachments/assets/f8303114-2a98-44df-bef1-b32736459f28" />
+</div>
 
-# DRH - Add-ons Audit Support
+<div align="center">
 
-Public technical support for DRH - Add-ons Audit.
+# Add-ons Audit | Support Hub
+
+Public technical support for **Add-ons Audit**.
+
+<br>
+
+<img src="https://img.shields.io/badge/Addon-In%20Development-a855f7?style=for-the-badge" alt="Addon In Development" />
+<img src="https://img.shields.io/badge/Version-1.0.0-0ea5e9?style=for-the-badge" alt="Version 1.0.0" />
+<img src="https://img.shields.io/badge/Blender-4.2%2B-f59e0b?style=for-the-badge" alt="Blender 4.2+" />
+
+</div>
+
+---
+
+<div align="center">
+
+This repository is the central public support hub for **Add-ons Audit** while development continues.
+
+</div>
+
+---
 
 ## Quick links
 
@@ -12,9 +34,8 @@ Public technical support for DRH - Add-ons Audit.
 - [Request a feature](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new?template=feature_request.yml)
 - [Report a compatibility issue](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new?template=compatibility_issue.yml)
 
-##
+## Use Discussions for
 
-Use Discussions for:
 - Questions
 - How-to topics
 - Installation help
@@ -22,7 +43,8 @@ Use Discussions for:
 - FAQ
 - Suggestions
 
-Use Issues for:
+## Use Issues for
+
 - Confirmed bugs
 - Reproducible compatibility problems
 - Feature requests
@@ -31,14 +53,16 @@ Use Issues for:
 
 ## Supported scope
 
-- Add-on: DRH - Add-ons Audit
-- Current version: 1.0.0
-- Minimum Blender version: 4.2.0
-- Platforms: Windows, macOS, Linux
+- **Add-on:** Add-ons Audit
+- **Status:** In Development
+- **Current version:** 1.0.0
+- **Minimum Blender version:** 4.2.0
+- **Platforms:** Windows, macOS, Linux
 
 ## Before you post
 
 Please include:
+
 - Add-on version
 - Blender version
 - Operating system
@@ -50,22 +74,31 @@ Please include:
 
 ## Support policy
 
-This repository is a public support hub. Please do not post private account details, license keys, payment information, or confidential files.
+This repository is a public support hub. Do not post private account details, license keys, payment information, or confidential files.
 
 ## Notes
 
-This add-on is source based, with no obfuscation, no binary-only content, and no external services. File access is used to scan installations, read manifests, compare snapshots, export reports, create installable packages, and import or export setup profiles.
+This add-on is source based, with no obfuscation, no binary-only content, and no external services.
+
+File access is used to:
+
+- Scan installations
+- Read manifests
+- Compare snapshots
+- Export reports
+- Create installable packages
+- Import or export setup profiles
 
 ## Where to post
 
-- Open a Discussion for questions, setup help, workflow advice, and suggestions
-- Open an Issue for confirmed bugs, reproducible compatibility problems, regressions, and feature requests
+- Open a **Discussion** for questions, setup help, workflow advice, and suggestions
+- Open an **Issue** for confirmed bugs, reproducible compatibility problems, regressions, and feature requests
 
 ## Availability
 
 This add-on may be available through multiple marketplaces and storefronts.
 
-For support, documentation, and issue tracking, please use this GitHub repository as the central public support hub.
+For support, documentation, and issue tracking, use this GitHub repository as the central public support hub.
 
 ## Documentation
 
@@ -74,6 +107,4 @@ For support, documentation, and issue tracking, please use this GitHub repositor
 
 ## License
 
-This repository is distributed under GPL-3.0-or-later.
-
-Thanks for helping improve DRH - Add-ons Audit.
+This repository is distributed under **GPL-3.0-or-later**.
