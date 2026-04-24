@@ -1,12 +1,12 @@
 <div align="center">
-  <img width="680" alt="Add-ons Audit banner" src="https://github.com/user-attachments/assets/f8303114-2a98-44df-bef1-b32736459f28" />
+  <img width="680" alt="DRH - Add-ons Audit banner" src="https://github.com/user-attachments/assets/f8303114-2a98-44df-bef1-b32736459f28" />
 </div>
 
 <br>
 
 <div align="center">
 
-# Add-ons Audit
+# DRH - Add-ons Audit
 
 ### Public Support Hub · Documentation · Feedback · Pre-release Validation
 
@@ -39,7 +39,7 @@
 
 <div align="center">
 
-**Add-ons Audit** helps Blender users understand what is installed, what changed, and how to document their add-on environment more clearly.
+**DRH - Add-ons Audit** helps Blender users understand what is installed, what changed, and how to document their add-on environment more clearly.
 
 This repository is the central public hub for support, documentation, issue tracking, compatibility feedback, and community validation before marketplace release.
 
@@ -54,7 +54,7 @@ This repository is the central public hub for support, documentation, issue trac
 
 - [Overview](#overview)
 - [Media preview](#media-preview)
-- [What Add-ons Audit does](#what-add-ons-audit-does)
+- [What DRH - Add-ons Audit does](#what-add-ons-audit-does)
 - [Key features](#key-features)
 - [Full feature list](#full-feature-list)
 - [Who is it for?](#who-is-it-for)
@@ -75,11 +75,11 @@ This repository is the central public hub for support, documentation, issue trac
 
 ## Overview
 
-**Add-ons Audit** is a Blender workflow utility designed to help users inspect, compare, document, and troubleshoot their Blender add-on installations.
+**DRH - Add-ons Audit** is a Blender workflow utility designed to help users inspect, compare, document, and troubleshoot their Blender add-on installations.
 
 It is intended for users who work with multiple add-ons, maintain different Blender setups, test compatibility, migrate environments, or need clearer reports when diagnosing issues.
 
-Instead of relying on memory or manual notes, Add-ons Audit helps turn your Blender add-on setup into structured, readable information.
+Instead of relying on memory or manual notes, DRH - Add-ons Audit helps turn your Blender add-on setup into structured, readable information.
 
 <!--
 
@@ -96,7 +96,7 @@ https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID" target="_blank">
-    <img width="720" alt="Add-ons Audit demo video" src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg" />
+    <img width="720" alt="DRH - Add-ons Audit demo video" src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg" />
   </a>
   <br>
   <sub>Click the image to watch the demo on YouTube.</sub>
@@ -109,7 +109,7 @@ https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID
 Recommended size: 1280x720 or 960x540.
 
 <div align="center">
-  <img width="720" alt="Add-ons Audit quick demo" src="docs/media/addons-audit-demo.gif" />
+  <img width="720" alt="DRH - Add-ons Audit quick demo" src="docs/media/addons-audit-demo.gif" />
 </div>
 -->
 
@@ -120,11 +120,11 @@ Recommended size: 1280x720 or 960x540.
 
 | Add-on Scan | Snapshot Compare |
 |---|---|
-| <img width="420" alt="Add-ons Audit scan view" src="docs/media/screenshot-scan.png" /> | <img width="420" alt="Add-ons Audit snapshot comparison" src="docs/media/screenshot-compare.png" /> |
+| <img width="420" alt="DRH - Add-ons Audit scan view" src="docs/media/screenshot-scan.png" /> | <img width="420" alt="DRH - Add-ons Audit snapshot comparison" src="docs/media/screenshot-compare.png" /> |
 
 | Reports | Setup Profiles |
 |---|---|
-| <img width="420" alt="Add-ons Audit report export" src="docs/media/screenshot-reports.png" /> | <img width="420" alt="Add-ons Audit setup profiles" src="docs/media/screenshot-profiles.png" /> |
+| <img width="420" alt="DRH - Add-ons Audit report export" src="docs/media/screenshot-reports.png" /> | <img width="420" alt="DRH - Add-ons Audit setup profiles" src="docs/media/screenshot-profiles.png" /> |
 
 </div>
 -->
@@ -135,7 +135,7 @@ Recommended size: 1280x720 or 960x540.
 Use this section if you want one large image instead of a gallery.
 
 <div align="center">
-  <img width="760" alt="Add-ons Audit preview" src="docs/media/addons-audit-preview.png" />
+  <img width="760" alt="DRH - Add-ons Audit preview" src="docs/media/addons-audit-preview.png" />
 </div>
 -->
 
@@ -151,9 +151,9 @@ Media preview coming soon.
 
 ---
 
-## What Add-ons Audit does
+## What DRH - Add-ons Audit does
 
-Add-ons Audit scans your Blender add-on environment and helps you create structured reports, snapshots, comparisons, and setup references.
+DRH - Add-ons Audit scans your Blender add-on environment and helps you create structured reports, snapshots, comparisons, and setup references.
 
 It is not only an add-on list viewer. It is designed as a diagnostic and documentation tool for Blender add-on setups.
 
@@ -259,7 +259,7 @@ Use it to:
 
 ## Who is it for?
 
-Add-ons Audit is designed for:
+DRH - Add-ons Audit is designed for:
 
 - Blender users with many installed add-ons
 - Artists who work across multiple Blender setups
@@ -281,7 +281,7 @@ Add-ons Audit is designed for:
 | **Minimum Blender version** | 4.2.0 |
 | **Platforms** | Windows, macOS, Linux |
 | **Release type** | Preparing for public marketplace release |
-| **Support repository** | [DRH Add-ons Audit Support](https://github.com/pacosalasv/DRH_Addons_Audit-Support) |
+| **Support repository** | [DRH DRH - Add-ons Audit Support](https://github.com/pacosalasv/DRH_Addons_Audit-Support) |
 
 This add-on is production ready and currently pending marketplace approval. Compatibility feedback, usability comments, and workflow suggestions are welcome before public release.
 
