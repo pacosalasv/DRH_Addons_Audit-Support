@@ -83,10 +83,13 @@ Instead of relying on memory or manual notes, DRH - Add-ons Audit helps turn you
 
 ## Media preview
 
+<div align="center">
+  <img width="920" alt="DRH - Add-ons Audit feature preview showing add-on inventory scanning, setup snapshots, comparison tools, exportable reports, and compatibility diagnostics" src="docs/media/Featured_Image.png" />
+</div>
+
 <!--
 
 ---
-
 
 ### Demo video
 
@@ -114,25 +117,25 @@ Recommended size: 1280x720 or 960x540.
 </div>
 -->
 
-### Screenshots
+### Early Screenshots
 
 <div align="center">
 
 | Report Preview | Add-ons Snapshot |
 |---|---|
-| <img width="420" alt="DRH - Report Preview" src="docs/media/ScreenShot_01.png" /> | <img width="420" alt="DRH - Add-ons Snapshot" src="docs/media/ScreenShot_02.png" /> |
+| <img height="420" alt="Report Preview" src="docs/media/ScreenShot_01.png" /> | <img width="420" alt="Add-ons Snapshot" src="docs/media/ScreenShot_02.png" /> |
 
 </div>
 
-<!--
-### Visual preview
+<details>
 
-Use this section if you want one large image instead of a gallery.
+<summary><strong>More Screenshots...</strong></summary>
 
-<div align="center">
-  <img width="760" alt="DRH - Add-ons Audit preview" src="docs/media/addons-audit-preview.png" />
-</div>
--->
+| Report Preview | Add-ons Snapshot |
+|---|---|
+| <img height="420" alt="HTML Report" src="docs/media/ScreenShot_03.png" /> | <img width="420" alt="Excel Report" src="docs/media/ScreenShot_04.png" /> |
+
+</details>
 
 <!--
 Temporary placeholder while media is not available.
@@ -167,15 +170,14 @@ Use it to:
 
 ## Key features
 
-- Scan Blender add-on installations
-- Read available add-on manifests and metadata
-- Create setup snapshots
-- Compare snapshots between different moments or configurations
-- Export reports for documentation or support
-- Import and export setup profiles
-- Identify setup changes, missing entries, or configuration differences
-- Provide a clearer view of complex Blender add-on environments
-
+- Snapshot comparison to instantly see what changed between Blender add-on setups
+- Metadata-based compatibility checks for safer upgrades and troubleshooting
+- Duplicate and shadow-copy detection to clean up broken or confusing installs
+- Exportable audit reports for support, documentation, and team handoff
+- Full add-on inventory scanning with manifest and metadata parsing
+- Setup profiles for repeatable environment reviews
+- Operator and hotkey conflict heuristics for faster problem isolation
+- Ecosystem Health summary for quick risk visibility
 ---
 
 <details>
@@ -183,70 +185,69 @@ Use it to:
 
 ## Full feature list
 
-### Add-on scanning
+### Inventory & Metadata
 
-- Scan Blender add-on installation folders
-- Detect available add-ons
-- Read add-on metadata when available
-- Identify add-on names, versions, and related information
-- Review the current add-on environment from inside Blender
+- Scan Blender add-on installations
+- Build a full add-on inventory
+- Read manifest and metadata fields
+- Parse names, authors, versions, compatibility targets, and URLs
+- Detect structure status and install type
+- Support robust static `bl_info` parsing
 
-### Manifest and metadata reading
+### Compatibility & Risk Review
 
-- Read available manifest files
-- Extract structured add-on information
-- Help document add-on identity, version, and setup data
-- Support cleaner troubleshooting by exposing relevant add-on details
+- Compatibility status detection
+- Duplicate copy detection
+- Version conflict detection
+- Shadow-state detection
+- Preferred local version resolution
+- Risk level scoring
+- Suggested action output
+- Ecosystem Health score and executive summary
 
-### Snapshot system
+### Conflict Heuristics
 
-- Create snapshots of the current add-on setup
-- Save setup states for later review
-- Use snapshots as references before or after changes
-- Keep records of different Blender environments or configurations
+- Possible operator conflict detection
+- Possible hotkey conflict detection
+- Issue summaries for manual review
 
-### Snapshot comparison
+### Snapshot & Change Tracking
 
-- Compare two setup snapshots
-- Identify changes between add-on configurations
-- Detect added, removed, or modified add-on entries
-- Use comparisons to troubleshoot unexpected setup differences
+- Create inventory snapshots
+- Compare snapshots across setup changes
+- Detect added add-ons
+- Detect removed add-ons
+- Detect changed add-ons
+- Validate compare inputs against supported inventory exports
 
-### Report export
+### Export & Reporting
 
-- Export readable reports
-- Create support-friendly documentation
-- Share setup information when reporting issues
-- Keep external records of installed add-ons and configuration states
+- Export to HTML
+- Export to JSON
+- Export to CSV
+- Export to TSV
+- Export to XML
+- Export to Markdown
+- Export to XLSX
+- Open output folder
+- Open last generated report
 
-### Setup profiles
+### Profiles & Portability
 
-- Export setup profiles
 - Import setup profiles
-- Prepare reusable add-on environment references
-- Help organize different workflows or Blender configurations
+- Export setup profiles
+- Portable setup support
+- Path sanitization for safer report sharing
 
-### Troubleshooting support
+### UI & Workflow
 
-- Help users explain their Blender add-on environment more clearly
-- Provide structured information for bug reports
-- Reduce guesswork when diagnosing compatibility problems
-- Support reproducible reports by documenting setup details
-
-### File and package utilities
-
-- Create installable packages when applicable
-- Export setup-related files
-- Import setup-related data
-- Help organize add-on environment information into portable files
-
-### Transparency
-
-- Source-based add-on
-- No obfuscation
-- No binary-only content
-- No external services required
-- Local file access only for add-on scanning, reports, snapshots, profiles, and package-related operations
+- Preview tab workflow
+- Snapshot tab workflow
+- Filters and sorting
+- Select all / clear selection helpers
+- Minimum row controls
+- Open selected install folder
+- Reset defaults and cleanup actions
 
 </details>
 
