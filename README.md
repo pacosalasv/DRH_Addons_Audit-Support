@@ -281,7 +281,7 @@ DRH - Add-ons Audit is designed for:
 | **Minimum Blender version** | 4.2.0 |
 | **Platforms** | Windows, macOS, Linux |
 | **Release type** | Preparing for public marketplace release |
-| **Support repository** | [DRH DRH - Add-ons Audit Support](https://github.com/pacosalasv/DRH_Addons_Audit-Support) |
+| **Support repository** | [DRH - Add-ons Audit Support](https://github.com/pacosalasv/DRH_Addons_Audit-Support) |
 
 This add-on is production ready and currently pending marketplace approval. Compatibility feedback, usability comments, and workflow suggestions are welcome before public release.
 
