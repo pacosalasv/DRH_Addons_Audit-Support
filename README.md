@@ -81,11 +81,12 @@ It is intended for users who work with multiple add-ons, maintain different Blen
 
 Instead of relying on memory or manual notes, DRH - Add-ons Audit helps turn your Blender add-on setup into structured, readable information.
 
+## Media preview
+
 <!--
 
 ---
 
-## Media preview
 
 ### Demo video
 
@@ -113,21 +114,15 @@ Recommended size: 1280x720 or 960x540.
 </div>
 -->
 
-<!--
-### Screenshots
+### Early Screenshots
 
 <div align="center">
 
-| Add-on Scan | Snapshot Compare |
+| Report Preview | Add-ons Snapshot |
 |---|---|
-| <img width="420" alt="DRH - Add-ons Audit scan view" src="docs/media/screenshot-scan.png" /> | <img width="420" alt="DRH - Add-ons Audit snapshot comparison" src="docs/media/screenshot-compare.png" /> |
-
-| Reports | Setup Profiles |
-|---|---|
-| <img width="420" alt="DRH - Add-ons Audit report export" src="docs/media/screenshot-reports.png" /> | <img width="420" alt="DRH - Add-ons Audit setup profiles" src="docs/media/screenshot-profiles.png" /> |
+| <img width="420" alt="DRH - Dual Units Pro unit switching" src="docs/media/ScreenShot_01.png" /> | <img width="420" alt="DRH - Dual Units Pro dual unit display" src="docs/media/ScreenShot_02.png" /> |
 
 </div>
--->
 
 <!--
 ### Visual preview
