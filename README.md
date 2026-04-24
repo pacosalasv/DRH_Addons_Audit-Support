@@ -23,6 +23,10 @@
 
 **Part of the DRH Add-ons ecosystem — Blender tools, updates, and releases.**
 
+<br>
+
+[![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit%20Hub-1E5BFF?style=for-the-badge&labelColor=0B1F4D)](https://github.com/pacosalasv/DRH_Addons_Hub)
+
 </div>
 
 <!--
@@ -87,7 +91,6 @@ Instead of relying on memory or manual notes, Add-ons Audit helps turn your Blen
 
 ## Media preview
 
-
 ### Demo video
 
 Replace `YOUTUBE_VIDEO_ID` with your real YouTube video ID.
@@ -137,6 +140,16 @@ Use this section if you want one large image instead of a gallery.
 
 <div align="center">
   <img width="760" alt="Add-ons Audit preview" src="docs/media/addons-audit-preview.png" />
+</div>
+-->
+
+<!--
+Temporary placeholder while media is not available.
+
+<div align="center">
+
+Media preview coming soon.
+
 </div>
 -->
 
@@ -457,5 +470,9 @@ This repository is distributed under **GPL-3.0-or-later**.
 **Blender tools, updates, and releases.**
 
 Built for clean workflows, practical utilities, and production-friendly Blender setups.
+
+<br>
+
+[![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit%20Hub-1E5BFF?style=for-the-badge&labelColor=0B1F4D)](https://github.com/pacosalasv/DRH_Addons_Hub)
 
 </div>
