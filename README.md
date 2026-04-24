@@ -2,42 +2,48 @@
   <img width="680" alt="Add-ons Audit banner" src="https://github.com/user-attachments/assets/f8303114-2a98-44df-bef1-b32736459f28" />
 </div>
 
+<br>
+
 <div align="center">
 
-# Add-ons Audit | Support Hub
+# Add-ons Audit
 
-Public support, documentation, feedback, and pre-release validation hub for **Add-ons Audit**.
+### Public Support Hub · Documentation · Feedback · Pre-release Validation
 
-<table>
-  <tr>
-    <td align="center"><strong>Status</strong><br>🟣 <strong>In Development</strong></td>
-    <td align="center"><strong>Version</strong><br><code>1.0.0</code></td>
-    <td align="center"><strong>Blender</strong><br><code>4.2+</code></td>
-    <td align="center"><strong>Platforms</strong><br>Windows, macOS, Linux</td>
-  </tr>
-</table>
+**A Blender utility for inspecting, documenting, comparing, and troubleshooting add-on setups.**
+
+<br>
+
+![Status](https://img.shields.io/badge/status-in%20development-1E5BFF?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-1.0.0-00B7FF?style=for-the-badge)
+![Blender](https://img.shields.io/badge/blender-4.2%2B-0B1F4D?style=for-the-badge)
+![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-EAF2FF?style=for-the-badge&labelColor=0B1F4D&color=EAF2FF)
+
+<br>
+
+**Part of the DRH Add-ons ecosystem — Blender tools, updates, and releases.**
 
 </div>
+
+<!--
+<div align="center">
+
+[![Superhive](https://img.shields.io/badge/Superhive-Coming%20Soon-1E5BFF?style=for-the-badge)](#)
+[![Gumroad](https://img.shields.io/badge/Gumroad-Coming%20Soon-00B7FF?style=for-the-badge)](#)
+[![BlenderKit](https://img.shields.io/badge/BlenderKit-Coming%20Soon-0B1F4D?style=for-the-badge)](#)
+
+</div>
+-->
 
 ---
 
 <div align="center">
 
-**Add-ons Audit** is a Blender utility designed to help users inspect, compare, document, and troubleshoot their Blender add-on installations.
+**Add-ons Audit** helps Blender users understand what is installed, what changed, and how to document their add-on environment more clearly.
 
-This repository is used as the central public hub for support, documentation, issue tracking, compatibility feedback, and community validation before marketplace release.
+This repository is the central public hub for support, documentation, issue tracking, compatibility feedback, and community validation before marketplace release.
 
 </div>
-
----
-
-## Quick links
-
-- [Ask a question in Discussions](https://github.com/pacosalasv/DRH_Addons_Audit-Support/discussions)
-- [Open a new issue](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new/choose)
-- [Report a bug](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new?template=bug_report.yml)
-- [Request a feature](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new?template=feature_request.yml)
-- [Report a compatibility issue](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new?template=compatibility_issue.yml)
 
 ---
 
@@ -47,13 +53,14 @@ This repository is used as the central public hub for support, documentation, is
 ## Menu
 
 - [Overview](#overview)
+- [Media preview](#media-preview)
 - [What Add-ons Audit does](#what-add-ons-audit-does)
 - [Key features](#key-features)
 - [Full feature list](#full-feature-list)
 - [Who is it for?](#who-is-it-for)
 - [Current status](#current-status)
 - [Feedback wanted before release](#feedback-wanted-before-release)
-- [Supported scope](#supported-scope)
+- [Quick links](#quick-links)
 - [Before you post](#before-you-post)
 - [Where to post](#where-to-post)
 - [Support policy](#support-policy)
@@ -68,11 +75,70 @@ This repository is used as the central public hub for support, documentation, is
 
 ## Overview
 
-**Add-ons Audit** helps Blender users review and document their add-on environment.
+**Add-ons Audit** is a Blender workflow utility designed to help users inspect, compare, document, and troubleshoot their Blender add-on installations.
 
-It is intended for users who work with many add-ons, need to compare Blender setups, troubleshoot compatibility issues, keep records of installed tools, or prepare clean add-on profiles for different workflows.
+It is intended for users who work with multiple add-ons, maintain different Blender setups, test compatibility, migrate environments, or need clearer reports when diagnosing issues.
 
-The goal is to make add-on management more transparent, organized, and easier to communicate when reporting issues or migrating setups.
+Instead of relying on memory or manual notes, Add-ons Audit helps turn your Blender add-on setup into structured, readable information.
+
+<!--
+
+---
+
+## Media preview
+
+
+### Demo video
+
+Replace `YOUTUBE_VIDEO_ID` with your real YouTube video ID.
+
+Example:
+https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID" target="_blank">
+    <img width="720" alt="Add-ons Audit demo video" src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg" />
+  </a>
+  <br>
+  <sub>Click the image to watch the demo on YouTube.</sub>
+</div>
+-->
+
+<!--
+### Quick demo GIF
+
+Recommended size: 1280x720 or 960x540.
+
+<div align="center">
+  <img width="720" alt="Add-ons Audit quick demo" src="docs/media/addons-audit-demo.gif" />
+</div>
+-->
+
+<!--
+### Screenshots
+
+<div align="center">
+
+| Add-on Scan | Snapshot Compare |
+|---|---|
+| <img width="420" alt="Add-ons Audit scan view" src="docs/media/screenshot-scan.png" /> | <img width="420" alt="Add-ons Audit snapshot comparison" src="docs/media/screenshot-compare.png" /> |
+
+| Reports | Setup Profiles |
+|---|---|
+| <img width="420" alt="Add-ons Audit report export" src="docs/media/screenshot-reports.png" /> | <img width="420" alt="Add-ons Audit setup profiles" src="docs/media/screenshot-profiles.png" /> |
+
+</div>
+-->
+
+<!--
+### Visual preview
+
+Use this section if you want one large image instead of a gallery.
+
+<div align="center">
+  <img width="760" alt="Add-ons Audit preview" src="docs/media/addons-audit-preview.png" />
+</div>
+-->
 
 ---
 
@@ -91,6 +157,7 @@ Use it to:
 - Document your Blender add-on environment
 - Prepare setup profiles
 - Troubleshoot compatibility or installation issues
+- Share clearer setup information when asking for support
 
 ---
 
@@ -102,7 +169,7 @@ Use it to:
 - Compare snapshots between different moments or configurations
 - Export reports for documentation or support
 - Import and export setup profiles
-- Help identify add-on changes, missing entries, or setup differences
+- Identify setup changes, missing entries, or configuration differences
 - Provide a clearer view of complex Blender add-on environments
 
 ---
@@ -198,12 +265,15 @@ Add-ons Audit is designed for:
 
 ## Current status
 
-**Status:** In Development  
-**Current version:** 1.0.0  
-**Minimum Blender version:** 4.2.0  
-**Platforms:** Windows, macOS, Linux
+| Item | Details |
+|---|---|
+| **Status** | In Development |
+| **Current version** | 1.0.0 |
+| **Minimum Blender version** | 4.2.0 |
+| **Platforms** | Windows, macOS, Linux |
+| **Release type** | Preparing for public marketplace release |
 
-This add-on is preparing for public release. Compatibility feedback, usability comments, and workflow suggestions are welcome.
+This add-on is currently preparing for public release. Compatibility feedback, usability comments, and workflow suggestions are welcome.
 
 ---
 
@@ -223,25 +293,27 @@ Feedback is especially welcome on:
 - Expected pricing
 - Marketplace expectations
 
-You can help by opening a Discussion or Issue with your comments.
-
 Useful feedback examples:
 
-- “I would use this to compare two Blender installs.”
-- “I need CSV export in addition to HTML/JSON.”
-- “This should detect disabled add-ons separately.”
-- “The report should include Blender version and OS.”
-- “This would be useful, but only if it supports portable Blender installs.”
+> “I would use this to compare two Blender installs.”
+
+> “I need CSV export in addition to HTML/JSON.”
+
+> “This should detect disabled add-ons separately.”
+
+> “The report should include Blender version and OS.”
+
+> “This would be useful, but only if it supports portable Blender installs.”
 
 ---
 
-## Supported scope
+## Quick links
 
-- **Add-on:** Add-ons Audit
-- **Status:** In Development
-- **Current version:** 1.0.0
-- **Minimum Blender version:** 4.2.0
-- **Platforms:** Windows, macOS, Linux
+- [Ask a question in Discussions](https://github.com/pacosalasv/DRH_Addons_Audit-Support/discussions)
+- [Open a new issue](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new/choose)
+- [Report a bug](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new?template=bug_report.yml)
+- [Request a feature](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new?template=feature_request.yml)
+- [Report a compatibility issue](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new?template=compatibility_issue.yml)
 
 ---
 
@@ -375,3 +447,15 @@ This GitHub repository remains the central public location for:
 ## License
 
 This repository is distributed under **GPL-3.0-or-later**.
+
+---
+
+<div align="center">
+
+### DRH Add-ons
+
+**Blender tools, updates, and releases.**
+
+Built for clean workflows, practical utilities, and production-friendly Blender setups.
+
+</div>
