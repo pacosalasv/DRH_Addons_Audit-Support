@@ -12,9 +12,7 @@
 
 **A Blender utility for inspecting, documenting, comparing, and troubleshooting add-on setups.**
 
-<br>
-
-![Status](https://img.shields.io/badge/status-in%20development-1E5BFF?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-production%20ready%2C%20pending%20approval-F59E0B?style=for-the-badge)
 ![Version](https://img.shields.io/badge/version-1.0.0-00B7FF?style=for-the-badge)
 ![Blender](https://img.shields.io/badge/blender-4.2%2B-0B1F4D?style=for-the-badge)
 ![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-EAF2FF?style=for-the-badge&labelColor=0B1F4D&color=EAF2FF)
@@ -22,8 +20,6 @@
 <br>
 
 **Part of the DRH Add-ons ecosystem — Blender tools, updates, and releases.**
-
-<br>
 
 [![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit%20Hub-1E5BFF?style=for-the-badge&labelColor=0B1F4D)](https://github.com/pacosalasv/DRH_Addons_Hub)
 
@@ -280,13 +276,14 @@ Add-ons Audit is designed for:
 
 | Item | Details |
 |---|---|
-| **Status** | In Development |
+| **Status** | 🟠 Production Ready, Pending Approval |
 | **Current version** | 1.0.0 |
 | **Minimum Blender version** | 4.2.0 |
 | **Platforms** | Windows, macOS, Linux |
 | **Release type** | Preparing for public marketplace release |
+| **Support repository** | [DRH Add-ons Audit Support](https://github.com/pacosalasv/DRH_Addons_Audit-Support) |
 
-This add-on is currently preparing for public release. Compatibility feedback, usability comments, and workflow suggestions are welcome.
+This add-on is production ready and currently pending marketplace approval. Compatibility feedback, usability comments, and workflow suggestions are welcome before public release.
 
 ---
 
@@ -322,6 +319,7 @@ Useful feedback examples:
 
 ## Quick links
 
+- [Support repository](https://github.com/pacosalasv/DRH_Addons_Audit-Support)
 - [Ask a question in Discussions](https://github.com/pacosalasv/DRH_Addons_Audit-Support/discussions)
 - [Open a new issue](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new/choose)
 - [Report a bug](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new?template=bug_report.yml)
@@ -470,8 +468,6 @@ This repository is distributed under **GPL-3.0-or-later**.
 **Blender tools, updates, and releases.**
 
 Built for clean workflows, practical utilities, and production-friendly Blender setups.
-
-<br>
 
 [![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit%20Hub-1E5BFF?style=for-the-badge&labelColor=0B1F4D)](https://github.com/pacosalasv/DRH_Addons_Hub)
 
