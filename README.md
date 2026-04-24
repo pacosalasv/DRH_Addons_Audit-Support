@@ -120,7 +120,7 @@ Recommended size: 1280x720 or 960x540.
 
 | Report Preview | Add-ons Snapshot |
 |---|---|
-| <img width="420" alt="DRH - Dual Units Pro unit switching" src="docs/media/ScreenShot_01.png" /> | <img width="420" alt="DRH - Dual Units Pro dual unit display" src="docs/media/ScreenShot_02.png" /> |
+| <img width="420" alt="DRH - Report Preview" src="docs/media/ScreenShot_01.png" /> | <img width="420" alt="DRH - Add-ons Snapshot" src="docs/media/ScreenShot_02.png" /> |
 
 </div>
 
