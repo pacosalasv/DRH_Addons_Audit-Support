@@ -123,7 +123,7 @@ Recommended size: 1280x720 or 960x540.
 
 | Report Preview | Add-ons Snapshot |
 |---|---|
-| <img height="420" alt="Report Preview" src="docs/media/ScreenShot_01.png" /> | <img width="420" alt="Add-ons Snapshot" src="docs/media/ScreenShot_02.png" /> |
+| <img height="420" alt="Report Preview" src="docs/media/ScreenShot_01.png" /> | <img height="420" alt="Add-ons Snapshot" src="docs/media/ScreenShot_02.png" /> |
 
 </div>
 
@@ -131,9 +131,9 @@ Recommended size: 1280x720 or 960x540.
 
 <summary><strong>More Screenshots...</strong></summary>
 
-| Report Preview | Add-ons Snapshot |
+| HTML Report Sample | Excel Report Sample |
 |---|---|
-| <img height="420" alt="HTML Report" src="docs/media/ScreenShot_03.png" /> | <img width="420" alt="Excel Report" src="docs/media/ScreenShot_04.png" /> |
+| <img height="420" alt="HTML Report" src="docs/media/ScreenShot_03.png" /> | <img height="420" alt="Excel Report" src="docs/media/ScreenShot_04.png" /> |
 
 </details>
 
