@@ -114,7 +114,7 @@ Recommended size: 1280x720 or 960x540.
 </div>
 -->
 
-### Early Screenshots
+### Screenshots
 
 <div align="center">
 
