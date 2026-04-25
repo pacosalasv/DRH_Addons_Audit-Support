@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="680" alt="DRH - Add-ons Audit banner" src="https://github.com/user-attachments/assets/f8303114-2a98-44df-bef1-b32736459f28" />
+  <img width="680" alt="DRH - Add-ons Audit banner" src="docs/media/Logo.png" />
 </div>
 
 <br>
