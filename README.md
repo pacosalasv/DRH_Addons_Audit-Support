@@ -1,13 +1,13 @@
 <div align="center">
-  <img width="680" alt="DRH - Add-ons Audit banner" src="docs/media/Logo.png" />
+  <img width="680" alt="DRH - Add-on Manager & Audit banner" src="docs/media/Logo.png" />
 </div>
 
 <br>
 
 <div align="center">
 
-# DRH - Add-ons Audit
-### Public Support Hub · Documentation · Feedback · Available on Blendkit
+# DRH - Add-on Manager & Audit
+### Public Support Hub · Documentation · Feedback · Available on BlendKit
 
 **Audit, compare, and export Blender add-on inventories safely.**
 
@@ -21,7 +21,7 @@
 **Part of the DRH Add-ons ecosystem - Blender tools, updates, and releases.**
 
 [![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit%20Hub-1E5BFF?style=for-the-badge&labelColor=0B1F4D)](https://github.com/pacosalasv/DRH_Addons_Hub)
-[![Blendkit](https://img.shields.io/badge/Blendkit-View%20Release-0B1F4D?style=for-the-badge)](https://www.blendkit.com/asset-gallery-detail/4436e85f-073d-4eb2-8271-d58648303a3f/)
+[![Available on BlendKit](https://img.shields.io/badge/BlendKit-FREE%20Download-0B1F4D?style=for-the-badge)](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/)
 
 </div>
 
@@ -31,15 +31,17 @@
 
 A production-focused auditing and maintenance toolkit for Blender add-ons and extensions. It helps review installed tools, compatibility, duplicate and conflict states, snapshots, maintenance information, and exportable reports.
 
-This repository is the public hub for support, documentation, issue tracking, and compatibility feedback for **DRH - Add-ons Audit**.
+This repository is the public hub for support, documentation, issue tracking, and compatibility feedback for **DRH - Add-on Manager & Audit**.
 
 </div>
 
 ---
 
+> **Repository note:** the existing `DRH_Addons_Audit-Support` repository name is intentionally preserved for URL/history continuity; the current marketplace product name is **DRH - Add-on Manager & Audit**.
+
 ## Support DRH Development
 
-If **DRH - Add-ons Audit** helps you work faster or makes your Blender workflow more reliable, you can support ongoing DRH development on **Ko-fi**. Your contribution helps fund maintenance, Blender compatibility updates, documentation, testing, and the development of new production-focused tools across the DRH ecosystem. Support is completely optional, and bug reports, compatibility feedback, and workflow suggestions are always welcome.
+If **DRH - Add-on Manager & Audit** helps you work faster or makes your Blender workflow more reliable, you can support ongoing DRH development on **Ko-fi**. Your contribution helps fund maintenance, Blender compatibility updates, documentation, testing, and the development of new production-focused tools across the DRH ecosystem. Support is completely optional, and bug reports, compatibility feedback, and workflow suggestions are always welcome.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
@@ -81,7 +83,7 @@ A production-focused auditing and maintenance toolkit for Blender add-ons and ex
 ## Media preview
 
 <div align="center">
-  <img width="920" alt="DRH - Add-ons Audit feature preview" src="docs/media/Featured_Image.png" />
+  <img width="920" alt="DRH - Add-on Manager & Audit feature preview" src="docs/media/Featured_Image.png" />
 </div>
 
 ### Screenshots
@@ -90,17 +92,17 @@ A production-focused auditing and maintenance toolkit for Blender add-ons and ex
 
 | Audit overview | Inventory review |
 |---|---|
-| <img height="420" alt="DRH - Add-ons Audit audit overview" src="docs/media/ScreenShot_01.png" /> | <img height="420" alt="DRH - Add-ons Audit inventory review" src="docs/media/ScreenShot_02.png" /> |
+| <img height="420" alt="DRH - Add-on Manager & Audit audit overview" src="docs/media/ScreenShot_01.png" /> | <img height="420" alt="DRH - Add-on Manager & Audit inventory review" src="docs/media/ScreenShot_02.png" /> |
 
 | Comparison workflow | Report export |
 |---|---|
-| <img height="420" alt="DRH - Add-ons Audit comparison workflow" src="docs/media/ScreenShot_03.png" /> | <img height="420" alt="DRH - Add-ons Audit report export" src="docs/media/ScreenShot_04.png" /> |
+| <img height="420" alt="DRH - Add-on Manager & Audit comparison workflow" src="docs/media/ScreenShot_03.png" /> | <img height="420" alt="DRH - Add-on Manager & Audit report export" src="docs/media/ScreenShot_04.png" /> |
 
 </div>
 
 ## What it does
 
-DRH - Add-ons Audit helps users inspect and compare Blender add-on and extension inventories without changing the installed tools being audited.
+DRH - Add-on Manager & Audit helps users inspect and compare Blender add-on and extension inventories without changing the installed tools being audited.
 
 ## Key features
 
@@ -115,7 +117,7 @@ DRH - Add-ons Audit helps users inspect and compare Blender add-on and extension
 
 - **Status:** 🟢 Released
 - **Version:** 1.0.0
-- Official distribution is available through Blendkit.
+- Official distribution is available through [BlendKit](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/).
 
 ## Feedback and compatibility reports
 
@@ -123,7 +125,7 @@ When reporting a problem, include the Blender version, operating system, add-on 
 
 ## Quick links
 
-- **Blendkit:** https://www.blendkit.com/asset-gallery-detail/4436e85f-073d-4eb2-8271-d58648303a3f/
+- **BlendKit:** https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/
 - **DRH Add-ons Hub:** https://github.com/pacosalasv/DRH_Addons_Hub
 - **Ko-fi:** https://ko-fi.com/pacosalasv
 - **Issues:** https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues
@@ -135,7 +137,7 @@ Use Issues for reproducible bugs, installation problems, compatibility reports, 
 
 ## Availability
 
-The released add-on is distributed through Blendkit. GitHub remains the public support and documentation location.
+The released add-on is distributed through [BlendKit](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/). GitHub remains the public support and documentation location.
 
 ## License
 

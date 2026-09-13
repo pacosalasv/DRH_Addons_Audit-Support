@@ -1,0 +1,17 @@
+{
+  "description": "Support and documentation for DRH - Add-on Manager & Audit: Blender add-on inventory, compatibility, maintenance, snapshots, and reporting.",
+  "homepage": "https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/",
+  "visibility": "public",
+  "has_issues": true,
+  "has_discussions": true,
+  "topics": [
+    "blender",
+    "blender-addon",
+    "addon-management",
+    "addon-audit",
+    "compatibility",
+    "reporting",
+    "technical-support",
+    "drh"
+  ]
+}
