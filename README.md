@@ -89,19 +89,36 @@ DRH - Add-on Manager & Audit helps users inspect and compare Blender add-on and 
 
 The released add-on is distributed through [BlendKit](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/). GitHub remains the public support and documentation location.
 
+## Documentation
+
+- [User manual](docs/manual/user-manual.pdf)
+- [Manual changelog](docs/manual/manual-changelog.md)
+- [Product changelog](CHANGELOG.md)
+- [Support guide](SUPPORT.md)
 
 ## Support
 
-Use [GitHub Discussions](https://github.com/pacosalasv/DRH_Addons_Audit-Support/discussions) for setup questions, workflow guidance, and general feedback. Use [GitHub Issues](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new/choose) for reproducible bugs, regressions, compatibility problems, and focused feature requests.
+Use [GitHub Discussions](https://github.com/pacosalasv/DRH_Addons_Audit-Support/discussions) for setup questions, workflow guidance, usage help, and general feedback. Use [GitHub Issues](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new/choose) for reproducible bugs, regressions, compatibility problems, and focused feature requests.
 
-Do not post credentials, payment information, license keys, confidential production files, private client material, or sensitive local paths.
-
-Detailed guidance is available in [SUPPORT.md](SUPPORT.md).
+See [SUPPORT.md](SUPPORT.md) for the shared DRH support format, the information to include in a report, and public-information guidance.
 
 ## Support DRH development
 
-Development support is optional. Contributions through [Ko-fi](https://ko-fi.com/pacosalasv) help cover maintenance, Blender compatibility work, documentation, and testing.
+DRH development support is optional. Ko-fi contributions help cover maintenance, Blender compatibility work, documentation, testing, and continued development of free tools.
 
-## License
+<div align="center">
+  <a href="https://ko-fi.com/pacosalasv">
+    <img width="520" alt="Support DRH development on Ko-fi" src="docs/media/kofi_donate.png" />
+  </a>
+</div>
 
-See the repository license when present and the distribution terms associated with the released add-on.
+## Ecosystem links
+
+- [DRH Add-ons Hub](https://github.com/pacosalasv/DRH_Addons_Hub)
+- [BlendKit](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/)
+- [Paco Salas | DRH on GitHub](https://github.com/pacosalasv)
+- [Ko-fi](https://ko-fi.com/pacosalasv)
+
+---
+
+Authored by Paco Salas | DRH.
