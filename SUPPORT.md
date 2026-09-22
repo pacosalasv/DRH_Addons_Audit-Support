@@ -1,15 +1,21 @@
 # Support
 
-For public support, use GitHub Discussions for questions, installation help, compatibility checks, and workflow guidance.
+DRH - Add-on Manager & Audit status: Released.
 
-For confirmed technical problems, use GitHub Issues for reproducible bugs, regressions, compatibility problems, and focused feature requests.
+The official distribution page is linked from the repository README.
 
-The add-on is released and its official distribution page is linked from the repository README.
+## Where to ask for help
 
-## Support DRH Development
+Use [GitHub Discussions](https://github.com/pacosalasv/DRH_Addons_Audit-Support/discussions) for installation questions, workflow guidance, report interpretation, compatibility checks, and general product feedback.
 
-If **DRH - Add-ons Audit** is useful in your workflow, you can support continued development, maintenance, Blender compatibility work, documentation, and testing on Ko-fi:
+Use [GitHub Issues](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new/choose) for reproducible bugs, regressions, compatibility problems, focused feature requests, and distribution or listing problems.
 
-https://ko-fi.com/pacosalasv
+When opening an issue, include the add-on version, Blender version, operating system, installation method, steps to reproduce, expected result, actual result, and any relevant error output or screenshot.
 
-Please do not include private payment details, account credentials, license keys, or confidential production files in public posts.
+## Public information only
+
+Do not post credentials, payment information, license keys, confidential production files, private client material, or sensitive local paths. Describe the problem first if reproduction may require a private file.
+
+## Development support
+
+Contributions through [Ko-fi](https://ko-fi.com/pacosalasv) are optional and help cover maintenance, Blender compatibility work, documentation, and testing.
