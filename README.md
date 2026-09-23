@@ -18,6 +18,17 @@
 
 A practical auditing and maintenance toolkit for Blender add-ons and extensions. It helps review installed tools, compatibility, duplicate and conflict states, snapshots, maintenance information, and exportable reports.
 
+## Key features
+
+| Details |
+|---|
+| local add-on and extension inventory scanning |
+| manifest and add-on metadata review |
+| compatibility, duplicate, version-conflict, and shadow-state checks |
+| operator and hotkey review candidates |
+| snapshot comparison for maintenance workflows |
+| exportable reports for troubleshooting and pipeline review |
+
 ## Product status
 
 | Item | Details |
@@ -30,22 +41,9 @@ A practical auditing and maintenance toolkit for Blender add-ons and extensions.
 | Distribution | Official installable releases are distributed through the linked download page. |
 | Repository role | Documentation, support, issue tracking, compatibility feedback, and product feedback |
 
-GitHub is used for documentation, support, issues, and release information; installable packages are not mirrored here.
-
-## Capabilities
-
-| Details |
-|---|
-| local add-on and extension inventory scanning |
-| manifest and add-on metadata review |
-| compatibility, duplicate, version-conflict, and shadow-state checks |
-| operator and hotkey review candidates |
-| snapshot comparison for maintenance workflows |
-| exportable reports for troubleshooting and pipeline review |
-
 ## Media
 
-Primary product screenshots are shown below. Additional screenshots, when present, remain in `docs/media/`.
+Product screenshots:
 
 <div align="center">
   <img width="420" alt="DRH - Add-on Manager & Audit ScreenShot 01" src="docs/media/ScreenShot_01.png" />
@@ -53,10 +51,6 @@ Primary product screenshots are shown below. Additional screenshots, when presen
   <img width="420" alt="DRH - Add-on Manager & Audit ScreenShot 03" src="docs/media/ScreenShot_03.png" />
   <img width="420" alt="DRH - Add-on Manager & Audit ScreenShot 04" src="docs/media/ScreenShot_04.png" />
 </div>
-
-## Product reference
-
-See the capabilities above and the linked documentation for the current public product reference.
 
 ## Documentation and support
 
@@ -84,7 +78,8 @@ Ko-fi support is optional. Contributions help fund maintenance, Blender compatib
 |---|---|
 | Download | [Official product page](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/) |
 | DRH Add-ons Hub | [Catalog and roadmap](https://github.com/pacosalasv/DRH_Addons_Hub) |
-| Paco Salas | DRH | [GitHub profile](https://github.com/pacosalasv) |
+| Paco Salas | DRH | [Official site](https://pacosalasv.blogspot.com/) |
+| BlendKit | [DRH Blender downloads](https://www.blendkit.com/?query=author_id:205846) |
 | Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
 
 ## License
