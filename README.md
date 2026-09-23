@@ -1,72 +1,38 @@
 <div align="center">
-  <img width="680" alt="DRH - Add-on Manager & Audit banner" src="docs/media/Logo.png" />
-</div>
 
-<br>
-
-<div align="center">
+<img width="860" alt="DRH - Add-on Manager & Audit featured image" src="docs/media/Featured_Image.png" />
 
 # DRH - Add-on Manager & Audit
 
-### Support · Documentation · Feedback · Available on BlendKit
+**Audit, compare, and export Blender add-on inventories safely**
 
-Audit, compare, and export Blender add-on inventories safely.
+![Status](https://img.shields.io/badge/Status-Released-22C55E?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0.0-00B7FF?style=for-the-badge)
+![Blender](https://img.shields.io/badge/Blender-4.2%2B-0B1F4D?style=for-the-badge)
 
-![Status](https://img.shields.io/badge/status-Released-22C55E?style=for-the-badge)
-![Version](https://img.shields.io/badge/version-1.0.0-00B7FF?style=for-the-badge)
-![Blender](https://img.shields.io/badge/blender-4.2%2B-0B1F4D?style=for-the-badge)
-![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-EAF2FF?style=for-the-badge&labelColor=0B1F4D&color=EAF2FF)
-
-<br>
-
-DRH Blender Tools: support, documentation, and release information.
-
-[![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit%20Hub-1E5BFF?style=for-the-badge&labelColor=0B1F4D)](https://github.com/pacosalasv/DRH_Addons_Hub)
-[![Available on BlendKit](https://img.shields.io/badge/BlendKit-FREE%20Download-0B1F4D?style=for-the-badge)](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/)
+[![Download](https://img.shields.io/badge/Download-Open-0B1F4D?style=for-the-badge)](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/) [![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues) [![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit-334155?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
 
 </div>
 
 ---
-
-<div align="center">
-
-A practical auditing and maintenance toolkit for Blender add-ons and extensions. It helps review installed tools, compatibility, duplicate and conflict states, snapshots, maintenance information, and exportable reports.
-
-This repository is the public hub for support, documentation, issue tracking, and compatibility feedback for DRH - Add-on Manager & Audit.
-
-</div>
-
----
-
-> Repository note: the existing `DRH_Addons_Audit-Support` repository name is intentionally preserved for URL/history continuity; the current marketplace product name is DRH - Add-on Manager & Audit.
 
 ## Overview
 
 A practical auditing and maintenance toolkit for Blender add-ons and extensions. It helps review installed tools, compatibility, duplicate and conflict states, snapshots, maintenance information, and exportable reports.
 
-## Media preview
+## Product status
 
-<div align="center">
-  <img width="920" alt="DRH - Add-on Manager & Audit feature preview" src="docs/media/Featured_Image.png" />
-</div>
-
-### Screenshots
-
-<div align="center">
-
-| Audit overview | Inventory review |
+| Item | Details |
 |---|---|
-| <img height="420" alt="DRH - Add-on Manager & Audit audit overview" src="docs/media/ScreenShot_01.png" /> | <img height="420" alt="DRH - Add-on Manager & Audit inventory review" src="docs/media/ScreenShot_02.png" /> |
+| Status | **Released** |
+| Version | 1.0.0 |
+| Blender | 4.2+ |
+| Platforms | Windows, macOS, Linux |
+| Availability | Free public release. |
+| Distribution | Official installable releases are distributed through the linked download page. |
+| Repository role | Documentation, support, issue tracking, compatibility feedback, and product feedback |
 
-| Comparison workflow | Report export |
-|---|---|
-| <img height="420" alt="DRH - Add-on Manager & Audit comparison workflow" src="docs/media/ScreenShot_03.png" /> | <img height="420" alt="DRH - Add-on Manager & Audit report export" src="docs/media/ScreenShot_04.png" /> |
-
-</div>
-
-## What it does
-
-DRH - Add-on Manager & Audit helps users inspect and compare Blender add-on and extension inventories without changing the installed tools being audited.
+GitHub is used for documentation, support, issues, and release information; installable packages are not mirrored here.
 
 ## Capabilities
 
@@ -79,46 +45,43 @@ DRH - Add-on Manager & Audit helps users inspect and compare Blender add-on and 
 | snapshot comparison for maintenance workflows |
 | exportable reports for troubleshooting and pipeline review |
 
-## Status
+## Media
 
-- Status: 🟢 Released
-- Version: 1.0.0
-- Official distribution is available through [BlendKit](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/).
+| Preview | Preview |
+|---|---|
+| <img width="420" alt="DRH - Add-on Manager & Audit Screenshot 1" src="docs/media/ScreenShot_01.png" /> | <img width="420" alt="DRH - Add-on Manager & Audit Screenshot 2" src="docs/media/ScreenShot_02.png" /> |
+| <img width="420" alt="DRH - Add-on Manager & Audit Screenshot 3" src="docs/media/ScreenShot_03.png" /> | <img width="420" alt="DRH - Add-on Manager & Audit Screenshot 4" src="docs/media/ScreenShot_04.png" /> |
 
-## Availability
+## Documentation and support
 
-The released add-on is distributed through [BlendKit](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/). GitHub remains the public support and documentation location.
+| Resource | Link |
+|---|---|
+| User manual | [User manual](docs/manual/user-manual.pdf) |
+| Support guide | [Support guide](SUPPORT.md) |
+| Manual changelog | [Manual changelog](docs/manual/manual-changelog.md) |
+| Product changelog | [Product changelog](CHANGELOG.md) |
+| GitHub Discussions | [GitHub Discussions](https://github.com/pacosalasv/DRH_Addons_Audit-Support/discussions) |
+| GitHub Issues | [GitHub Issues](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new/choose) |
 
-## Documentation
+Use **Discussions** for questions, setup help, workflow guidance, and general feedback. Use **Issues** for reproducible bugs, regressions, compatibility problems, documentation errors, and focused feature requests.
 
-- [User manual](docs/manual/user-manual.pdf)
-- [Manual changelog](docs/manual/manual-changelog.md)
-- [Product changelog](CHANGELOG.md)
-- [Support guide](SUPPORT.md)
-
-## Support
-
-Use [GitHub Discussions](https://github.com/pacosalasv/DRH_Addons_Audit-Support/discussions) for setup questions, workflow guidance, usage help, and general feedback. Use [GitHub Issues](https://github.com/pacosalasv/DRH_Addons_Audit-Support/issues/new/choose) for reproducible bugs, regressions, compatibility problems, and focused feature requests.
-
-See [SUPPORT.md](SUPPORT.md) for the shared DRH support format, the information to include in a report, and public-information guidance.
+Before posting, review [SUPPORT.md](SUPPORT.md) for the shared DRH support format and public-information guidance.
 
 ## Support DRH development
 
-DRH development support is optional. Ko-fi contributions help cover maintenance, Blender compatibility work, documentation, testing, and continued development of free tools.
+If this project or another free DRH tool saves you time, optional Ko-fi support helps fund maintenance, Blender compatibility work, documentation, testing, and continued development.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
-    <img width="520" alt="Support DRH development on Ko-fi" src="docs/media/kofi_donate.png" />
+    <img width="620" alt="Support Paco Salas | DRH on Ko-fi" src="docs/media/SupportMe.png" />
   </a>
 </div>
 
-## Ecosystem links
+## DRH ecosystem
 
-- [DRH Add-ons Hub](https://github.com/pacosalasv/DRH_Addons_Hub)
-- [BlendKit](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/)
-- [Paco Salas | DRH on GitHub](https://github.com/pacosalasv)
-- [Ko-fi](https://ko-fi.com/pacosalasv)
-
----
-
-Authored by Paco Salas | DRH.
+| Destination | Link |
+|---|---|
+| DRH Add-ons Hub | [Catalog, roadmap, and product status](https://github.com/pacosalasv/DRH_Addons_Hub) |
+| Download | [Official download](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/) |
+| Paco Salas \| DRH | [GitHub profile](https://github.com/pacosalasv) |
+| Support development | [Ko-fi](https://ko-fi.com/pacosalasv) |
