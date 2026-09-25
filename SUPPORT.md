@@ -1,4 +1,4 @@
-# DRH - Add-on Manager & Audit — Support
+# DRH - Add-on Manager & Audit - Support
 
 This repository follows the common public support workflow used across the DRH Blender Tools ecosystem.
 
@@ -51,7 +51,12 @@ Ko-fi support is optional. Contributions help fund maintenance, Blender compatib
 | Destination | Link |
 |---|---|
 | Download | [Official product page](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/) |
+| Support development | [Ko-fi](https://ko-fi.com/pacosalasv) |
 | DRH Add-ons Hub | [Catalog and roadmap](https://github.com/pacosalasv/DRH_Addons_Hub) |
-| Paco Salas | DRH | [Official site](https://pacosalasv.blogspot.com/) |
-| BlendKit | [DRH Blender downloads](https://www.blendkit.com/?query=author_id:205846) |
-| Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
+| BlendKit | [DRH Blender catalog](https://www.blendkit.com/?query=author_id:205846) |
+| Paco Salas / DRH | [Official site](https://pacosalasv.blogspot.com/) |
+| Xtreme Mindset | [Product lab](https://xtrememindset.blogspot.com/) |
+| Sketchfab / Código Píxel | [3D model collections](https://sketchfab.com/codigopixel/collections) |
+| KreaOn | [Technology education](https://www.kreaon.com/) |
+| PiNu | [Connected physical products](https://pinu.com.mx/) |
+| GitHub | [pacosalasv](https://github.com/pacosalasv) |
